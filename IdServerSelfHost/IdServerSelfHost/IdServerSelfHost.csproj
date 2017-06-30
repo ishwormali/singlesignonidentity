@@ -80,6 +80,7 @@
     <Compile Include="Server\Clients.cs" />
     <Compile Include="Server\Scopes.cs" />
     <Compile Include="Server\Startup.cs" />
+    <Compile Include="Server\Users.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
